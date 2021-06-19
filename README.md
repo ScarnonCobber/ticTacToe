@@ -15,4 +15,4 @@ the comparison of ints is easier for my current knowlege level.
 
 AI, graphical interface and streamlining code to come.
 
-Ben Alias 19/6/21
+Ben Alias 19/6/2021
